@@ -10,16 +10,6 @@ In this 6–8 minute, single-person experience, you enter a few details and watc
 
 The experience ends by connecting that feeling to real-world decisions shaped by data, such as insurance, credit, and recommendation feeds. Its aim is to prompt reflection, not to assess or classify the participant.
 
-## Try it
-
-No build step or dependencies are required. Open [`classified.html`](classified.html) in a modern desktop or mobile browser, then choose **BETREED DE INSTALLATIE** to begin. For a local web server instead:
-
-```bash
-python3 -m http.server 8000
-```
-
-Open [http://localhost:8000/classified.html](http://localhost:8000/classified.html). The experience is in Dutch. Sound starts after you enter the installation; adjust or mute it with your device's volume controls.
-
 ## Privacy and fiction
 
 - The profile and conclusions are fictional, generated in the browser from simple rules and random values. They are not a real prediction, score, or evaluation of the participant.
